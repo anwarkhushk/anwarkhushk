@@ -1,18 +1,143 @@
-# 💫 About Me:
-I’m currently working on building and optimizing full-stack web applications using React, Node.js, and Python, with a strong focus on performance, scalability, and seamless user experience. My GitHub showcases a variety of projects that explore modern development practices, automation, and creative problem-solving through code. I’m deeply passionate about expanding my expertise into embedded systems, DevOps, AI agents, web scraping, and many more emerging fields — areas I plan to explore further as I continue to grow as a developer.<br><br>I’m eager to collaborate on open-source projects and innovative solutions that combine software engineering, AI, and system automation. I’m particularly interested in working with teams that value clean code, thoughtful design, and impactful technologies that solve real-world challenges.<br><br>Currently, I’m learning more about machine learning, Next.js, TypeScript, Docker, and Kubernetes, and experimenting with ways to integrate intelligent systems into web and embedded environments. Feel free to ask me about building scalable applications, designing efficient APIs, integrating automation into workflows, or implementing intelligent systems that adapt to users’ needs.<br><br>Outside of coding, I enjoy exploring AI ethics, UI/UX design, and Linux customization — finding creative ways to merge technology with innovation. I’m always curious, always learning, and always building something new.<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=120&section=header"/>
 
+<!-- Profile Photo -->
+<img src="https://drive.google.com/uc?export=view&id=1yK027BNqa85SsjeKSxpaPyIptAYdyCnH" align="right" width="220" style="border-radius: 15px; margin-left: 20px; margin-bottom: 20px;" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anwwar._.balouch) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-anwar-62100b325/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Muhammad._.anwar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadanwarbaloch1@gmail.com) 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=4200&pause=500&color=0891b2&width=600&lines=Hello%2C+I'm+Muhammad+Anwar;Computer+Science+Student;AI+%7C+Embedded+Systems+%7C+System+Integration+%7C+Web+Developer;" alt="Typing Animation"/>
+</a>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anwarkhushk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=anwarkhushk&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anwarkhushk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=anwarkhushk&label=Profile%20views&color=0891b2&style=for-the-badge"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=anwarkhushk&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+- 🎓 **Computer Science Student**  
+- 🤖 Passionate about **Artificial Intelligence**, **Embedded Systems**, **System Integration Engineering**, and **Web Development**  
+- 🔧 Exploring **automation**, **n8n**, **API integration**, and **workflow orchestration**  
+- 🧠 Strong interest in **algorithms, low-level programming, intelligent systems, and system design**  
+- 🐍 Python enthusiast — building tools in **AI**, **automation**, **APIs**, and **backend development**  
+- 💡 Always curious about solving real-world problems using smart system integrations  
+- ✍ I write technical blogs on **Medium**  
+- 📫 Reach me at **muhammadanwarbaloch1@gmail.com**
+
+---
+
+## 🛠️ Skills
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript,mysql,git,github,linux,arch)](https://skillicons.dev)
+
+### 🔧 Additional Tools & Interests  
+- **Automation:** n8n, APIs, Workflow Orchestration  
+- **Systems:** Embedded Systems, Low-Level Programming, System Integration  
+- **AI/ML:** Python AI Libraries, Model Integration  
+- **Web Dev:** JavaScript, HTML, CSS  
+
+---
+
+## 📚 Programming Languages Overview
+
+### 🔹 **C**
+- Low-level, powerful  
+- Perfect for embedded systems and memory-critical applications  
+- Used in OS development, microcontrollers, and hardware-level interactions  
+
+### 🔹 **C++**
+- Extension of C with **OOP** and strong abstraction  
+- Used in game engines, real-time systems, high-performance applications  
+- Supports STL, classes, polymorphism, templates  
+
+### 🔹 **Python**
+- Extremely versatile and beginner-friendly  
+- Strong in **AI/ML**, **automation**, **API development**, **scripting**, and **data processing**  
+- Works amazingly with tools like:  
+  - **n8n** (integrations & automation)  
+  - **FastAPI**, **Flask**  
+  - **TensorFlow**, **PyTorch**, **NumPy**, **Pandas**  
+- Best choice for building **intelligent systems** quickly  
+
+### 🔹 **JavaScript**
+- Core language of the Web  
+- Runs both in browsers and servers (Node.js)  
+- Used for interactive UI, full-stack development, and SPA applications  
+
+### 🔹 **HTML & CSS**
+- Building blocks of modern web pages  
+- Provide structure, appearance, and user interface design  
+
+### 🔹 **MySQL / Databases**
+- SQL-based relational database  
+- Used in websites, dashboards, authentication systems, apps  
+- Supports joins, triggers, indexing, and data modeling  
+
+---
+
+## 🔍 Language Comparison
+
+| Feature | C | C++ | Python | JavaScript |
+|--------|----|------|---------|-----------|
+| Level | Low | Mid | High | High |
+| Speed | Very Fast | Fast | Moderate | Moderate |
+| Memory | Manual | Manual/Auto | Auto | Auto |
+| Use Case | Systems & Embedded | High Performance | AI, Automation | Web Dev |
+| Difficulty | Hard | Medium | Easy | Easy |
+
+---
+
+## 📘 Learning Path (Recommended)
+
+### ⭐ Start With:
+1. **C** – Logic, memory, pointers  
+2. **C++** – OOP, STL, abstraction  
+3. **Python** – AI, automation, workflow bots, integration  
+4. **JavaScript + HTML + CSS** – For web development  
+5. **MySQL** – Databases, relationships, queries  
+
+### ⭐ Then Move Into:
+- Automation (n8n)  
+- AI/ML Libraries  
+- Embedded Systems (Arduino, ESP32, ARM)  
+- System Integration Engineering  
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://instagram.com/anwar._.balouch">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/muhammad-anwar-62100b325/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/@Muhammad._.anwar">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+  <a href="mailto:muhammadanwarbaloch1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anwarkhushk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0891b2&icon_color=06b6d4&text_color=c9d1d9&border_radius=10" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anwarkhushk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0891b2&layout=compact&text_color=c9d1d9&border_radius=10" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anwarkhushk&theme=tokyonight&hide_border=true&background=0d1117&stroke=06b6d4&ring=0891b2&fire=06b6d4&currStreakLabel=06b6d4&border_radius=10"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anwarkhushk&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15&no-bg=true"/>
+</p>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=120&section=footer"/>
