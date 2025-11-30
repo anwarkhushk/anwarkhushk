@@ -1,10 +1,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=120&section=header"/>
 
 <!-- Profile Photo -->
-<img src="https://drive.google.com/uc?export=view&id=1yK027BNqa85SsjeKSxpaPyIptAYdyCnH" align="right" width="220" style="border-radius: 15px; margin-left: 20px; margin-bottom: 20px;" />
+<img src="./p.jpeg" align="right" width="220" style="border-radius: 15px; margin-left: 20px; margin-bottom: 20px;" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=4200&pause=500&color=0891b2&width=600&lines=Hello%2C+I'm+Muhammad+Anwar;Computer+Science+Student;AI+%7C+Embedded+Systems+%7C+System+Integration+%7C+Web+Developer;" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=4200&pause=500&color=0891b2&width=600&lines=Hello%2C+I'm+Muhammad+Anwar;Computer+Science+Student;Developer+%7C+Learner+%7C+Tech+Enthusiast;" alt="Typing Animation"/>
 </a>
 
 <p align="left"> 
