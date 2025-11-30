@@ -21,7 +21,9 @@
 - 🧠 Strong interest in **algorithms, low-level programming, intelligent systems, and system design**  
 - 🐍 Python enthusiast — building tools in **AI**, **automation**, **APIs**, and **backend development**  
 - 💡 Always curious about solving real-world problems using smart system integrations  
-- ✍ I write technical blogs on **Medium**  
+- ✍ I write technical blogs on   <a href="https://medium.com/@Muhammad._.anwar"> **Medium**
+    <!-- <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/> -->
+  </a>  
 - 📫 Reach me at **muhammadanwarbaloch1@gmail.com**
 
 ---
